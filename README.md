@@ -7,7 +7,7 @@
 
 初赛结果：晋级
 
-排名：88/545
+排名：85/545
 
 ![](https://github.com/zhangxiaoling/ECGgame/blob/master/pic1.jpg)
 
